@@ -89,4 +89,4 @@ You are free to use, modify, and distribute this software for both personal and 
 
 **Super Simple File Browser**  
 Made with ❤️ in PHP and Vanilla JS  
-by [skippyboss](https://github.com/skippybossx)
+by [Me](https://github.com/davidmargol)
